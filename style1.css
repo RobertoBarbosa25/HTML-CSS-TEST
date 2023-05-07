@@ -1,0 +1,190 @@
+*{
+    margin: 0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+#CORPO {
+    width: 1400px;
+}
+
+h1 {
+    color:#1BB4E8;
+    font-size: 25px;
+    margin-left: 40px;
+    display:inline;
+    width: 40px;
+    position: relative;
+    left:10px;
+    bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#TOPO {
+    background-color: #21272B;
+    color:#FFFFFF;  
+    max-width: 1400px;
+
+}
+#TOPO img  {
+    display:inline;
+    
+    
+}
+#TOPO img {
+    position: relative;
+    left:40px;
+    top:15px;
+
+    
+}
+#MARROM {
+    color: #C6B07F; 
+}
+
+#TOPO h2 {
+    color: white;
+    font-size: 20px;
+    font-family:  arial;
+    margin-left: 70px; 
+    position: relative;
+    bottom: 15px;
+    left:25px;
+}
+#DESTINO{
+    max-width: 550px;
+    margin-left: 40px;
+    float:left;
+    position: relative;
+    bottom:250px;
+    
+}
+#DESTINO h3 {
+    background-color:#1BB4E8;
+    padding: 10px;
+    padding-left: 60px;
+    color:white;
+    
+}
+#DESTINO h4 {
+    padding: 20px;
+    position: relative;
+    right:20px;
+    
+}
+#DESTINO p {
+    width: 500px;
+    padding: 30px; 
+    position: relative;
+    right:32px;
+}
+
+#PARAGRAFO {
+    background-color:rgba(26, 50, 67, 0.9);
+    color: white;
+    width: 390px;
+    padding: 30px;
+    margin-left: 800px;
+    position: relative;
+    bottom: 320px;
+    
+}
+#PARAGRAFO p {
+    
+    font-size: 15px;
+    position: relative;
+    left:20px; 
+    bottom:15px; 
+    
+}
+#PARAGRAFO h2 {
+    
+    font-size:26px;
+}
+
+
+#NOSSAFROTA h3 {
+    background-color: #C6B07F;
+    padding: 10px;
+    padding-left: 55px;
+    color:white;
+}
+#IMGPRIN {
+    text-align: center;
+    font-size: 120px;  
+}
+#IMGTOP {
+    padding: 20px;
+    text-align: left;
+    margin-left: 36px;
+}
+#MENU  {
+    list-style-type: none;
+    margin-left:650px;
+    position: relative;
+    bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#MENU li {
+    display:inline;
+}
+#MENU li a{
+    color: #fff;
+    padding:10px;
+    text-decoration: none;
+    display: inline;
+}
+#MENU li a:hover{
+    color:#1BB4E8;
+}
+
+
+
+#NOSSAFROTA {
+    max-width: 550px;
+    margin-right: 20px;
+    position: relative;
+    bottom:245px;
+    right:40px;
+    
+}
+#NOSSAFROTA p {
+    width: 500px;
+    padding: 30px;
+    position: relative;
+    right:55px;
+}
+#NOSSAFROTA h4{
+    padding: 20px;
+    width: 500px;
+    position: relative;
+    right:45px;
+}
+#RODAPE{
+    margin-right:45px;
+    width:1350px;
+}
+#DESTINO img {
+    position: relative;
+    top:46px;
+    left:5px;
+}
+#NOSSAFROTA img {
+    position: relative;
+    top:44px;
+    left:5px;
+}
+#barco2 {
+    position:relative;
+    top:20px;
+    right:15px;
+}
+.barra {
+    color:white;
+}
+#RODAPE {
+    width: 1400px;
+    
+    background-color:rgba(86, 93, 99, 0.5);
+    padding:15px;
+}
